@@ -14,7 +14,7 @@ Designed a Power BI Sales Insights dashboard to analyze revenue, sales performan
 10.Which periods show sales growth or decline, indicating seasonality or demand shifts?
 
 ## Dataset
-<a https://github.com/Anuchith/Sales-Insights-Revenue-Analysis-Dashboard-using-SQL-Power-BI/blob/main/db_dump.sql/>DataSet<a/>
+<a href="https://github.com/Anuchith/Sales-Insights-Revenue-Analysis-Dashboard-using-SQL-Power-BI/blob/main/db_dump.sql">DataSet<a/>
 
 ## Project Insights
 -The dashboard reveals that a single zone contributes the majority of total revenue, highlighting regional concentration in sales performance.
